@@ -70,6 +70,11 @@ També es van realitzar els suports per mantenir fixos els sensors d'ultrasò HC
 
 *Peces per aguantar els micròfons de forma que quedin triangulats*
 
+Per últim, com hem esmentat abans, s'han realitzat múltiples pestanyes per fixar els components més pesats i amb major risc de voltejar o caure.
+
+<img src="3d_pieces/img_3d/pestanyes.jpeg" height="300">
+
+*Exemple de pestanyes per fixar els components*
 
 # Documentation
 ...
