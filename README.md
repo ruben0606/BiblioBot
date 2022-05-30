@@ -45,8 +45,8 @@ S'ha utilitzat el programa Fusion 360 per realitzar totes les peces.
 
 La primera peça realitada és la peça principal del projecte ja que serà la base del nostre robot. La peça consta de la base i al seu interior hem dissenyat unes sub-peces per poder colocar els components corresponents sense que caiguin de la base amb el moviment del robot.
 Aquestes subpeces són pestanyes que envolten les peces per així fixar-les a la base i al disseny es poden observar les peces que serveixen per anclar uns altres components amb cargols.
-
-<img src="3d_pieces/img_3d/base.jpge" height="300">
+  
+<img src="3d_pieces/img_3d/base.jpeg" height="300">
 
 
 # Documentation
