@@ -45,8 +45,24 @@ S'ha utilitzat el programa Fusion 360 per realitzar totes les peces.
 
 La primera peça realitada és la peça principal del projecte ja que serà la base del nostre robot. La peça consta de la base i al seu interior hem dissenyat unes sub-peces per poder colocar els components corresponents sense que caiguin de la base amb el moviment del robot.
 Aquestes subpeces són pestanyes que envolten les peces per així fixar-les a la base i al disseny es poden observar les peces que serveixen per anclar uns altres components amb cargols.
+
+La base es va decidir fer amb la talladora làser en fusta ja que era molt més ràpid. 
+
+A continuació mostrem el resultat:
   
 <img src="3d_pieces/img_3d/base.jpeg" height="300">
+*Base de fusta tallada a làser*
+
+També es van realitzar els suports per mantenir fixos els sensors d'ultrasò HC-sr04, els motors i els micròfons. En el cas del sensors es van situar amb una diferència de 15 graus entre ells per poder detectar millor els obstàcles.
+
+<img src="3d_pieces/img_3d/suport_sensors.jpeg" height="300">
+*Peces per aguantar els sensors HC-sr04 i mantenirlos a un angle de 15 graus entre ells*
+
+<img src="3d_pieces/img_3d/suport_motors.jpeg" height="300">
+*Suports de motors obtinguts d'internet*
+
+<img src="3d_pieces/img_3d/cargols_micròfons.jpeg" height="300">
+*Peces per aguantar els micròfons de forma que quedin triangulats*
 
 
 # Documentation
