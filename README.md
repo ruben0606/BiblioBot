@@ -6,6 +6,9 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
+   * [Hardware](#hardware)
+   * [Software](#software)
+   * [3D printing](#3d-printing)
    * [Documentation](#documentation)
    * [How to use](#how-to-use)
    * [License](#license)
@@ -29,6 +32,20 @@ Per executar el codi d'aquest project:
 - [Python 3.10.x](https://www.python.org/)
 - [playsound](https://pypi.org/project/playsound/)
 - [smbus](https://pypi.org/project/smbus-cffi/)
+
+# Hardware
+
+# Software
+
+# 3D printing
+
+Per a la realització del Bibliobot s'han hagut d'imprimir diverses peces 3d. Aquestes peces 3d s'han imprès a l'Open Lab de la Universitat Autònoma de Barcelona (UAB).
+
+S'ha utilitzat el programa Fusion 360 per realitzar totes les peces.
+
+La primera peça realitada és la peça principal del projecte ja que serà la base del nostre robot. La peça consta de la base i al seu interior hem dissenyat unes sub-peces per poder colocar els components corresponents sense que caiguin de la base amb el moviment del robot.
+Aquestes subpeces són pestanyes que envolten les peces per així fixar-les a la base i al disseny es poden observar les peces que serveixen per anclar uns altres components amb cargols.
+
 
 # Documentation
 ...
