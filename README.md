@@ -56,7 +56,7 @@ _Base de fusta tallada a làser_
 També es van realitzar els suports per mantenir fixos els sensors d'ultrasò HC-sr04, els motors i els micròfons. En el cas del sensors es van situar amb una diferència de 15 graus entre ells per poder detectar millor els obstàcles.
 
 <img src="3d_pieces/img_3d/suport_sensors.jpeg" height="300">
-_Peces per aguantar els sensors HC-sr04 i mantenirlos a un angle de 15 graus entre ells_
+*Peces per aguantar els sensors HC-sr04 i mantenirlos a un angle de 15 graus entre ells.*
 
 
 <img src="3d_pieces/img_3d/suport_motors.jpeg" height="300">
