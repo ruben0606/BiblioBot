@@ -51,7 +51,8 @@ La base es va decidir fer amb la talladora làser en fusta ja que era molt més 
 A continuació mostrem el resultat:
   
 <img src="3d_pieces/img_3d/base.jpeg" height="300">
-_Base de fusta tallada a làser_
+
+*Base de fusta tallada a làser*
 
 També es van realitzar els suports per mantenir fixos els sensors d'ultrasò HC-sr04, els motors i els micròfons. En el cas del sensors es van situar amb una diferència de 15 graus entre ells per poder detectar millor els obstàcles.
 
@@ -61,11 +62,13 @@ També es van realitzar els suports per mantenir fixos els sensors d'ultrasò HC
 
 
 <img src="3d_pieces/img_3d/suport_motors.jpeg" height="300">
+
 *Suports de motors obtinguts d'internet*
 
 
 <img src="3d_pieces/img_3d/cargols_micròfons.jpeg" height="300">
-_Peces per aguantar els micròfons de forma que quedin triangulats_
+
+*Peces per aguantar els micròfons de forma que quedin triangulats*
 
 
 # Documentation
