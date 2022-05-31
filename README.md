@@ -1,4 +1,4 @@
-<img src="https://github.com/ruben0606/BiblioBot/blob/main/img/foto_robot.PNG" align="right" width="300" alt="header pic"/>
+<img src="https://github.com/ruben0606/BiblioBot/blob/main/img/foto_robot.jpeg" align="right" width="300" alt="header pic"/>
 
 # BiblioBot
 Project de l'assignatura Robòtica, llenguatge i planificació.
