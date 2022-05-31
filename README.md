@@ -66,6 +66,11 @@ A continucació mostrem els principals components acompanyats d'una petita expli
 
 *Sensors d'ultrasò HC-SR04 detecta obstacles a una certa distància del robot*
 
+<img src="hardware/components/bruixola.jpg" height="300">
+
+*Brúixola que indicarà la direcció del nord per poder orientar al Bibliobot.*
+
+
 
 
 
