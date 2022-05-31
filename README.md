@@ -36,6 +36,8 @@ Per executar el codi d'aquest project:
 
 # Hardware
 
+## Componentes
+
 # Software
 
 A nivell de software el projecte conté tres grans mòduls:
