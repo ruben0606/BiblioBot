@@ -1,0 +1,5 @@
+RPI.GPIO
+time
+smbus #comunicacion I2C
+math
+pygame
