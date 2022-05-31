@@ -56,7 +56,7 @@ A continucació mostrem els principals components acompanyats d'una petita expli
 
 <img src="components/motors.jpg" height="300">
 
-*S'encarregaràn de transmetre moviment a les rodes*
+*Motors s'encarregaràn de transmetre moviment a les rodes*
 
 <img src="components/raspberry.jpg" height="300">
 
