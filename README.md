@@ -113,7 +113,7 @@ A continuació mostrem una sèrie d'imatges de la versió final del robot.
 A nivell de software el projecte conté tres grans mòduls:
 
 -**Mòdul de Moviment:**
-S'encarrega del moviment del robot, que es podrà moure en les quatre direccions, cap endavant, endarrera, esquerra i dreta.
+S'encarrega del moviment del robot, que es podrà moure en les tres direccions programades, cap endavant, esquerra i dreta.
 Simplement conté la programació perquè el robot pugui avançar cap a la direcció que se l'indiqui en tot moment segons la situació actual que tingui.
 Aquesta situació actual dependrà de si el mòdul de detecció d'obstacles li informa que hem topat amb un obstacle.
 
@@ -125,6 +125,7 @@ Els sensors estàn separats amb una angle de 15 graus entre si per poder localit
 S'encarrega de reproduïr una frase a través d'un altaveu un cop hagi arribat al destí per fer saber a la persona indicada que ha de baixar el to de veu. Depèn del mòdul de moviment per saber quan arribem al destí, que serà quan ha d'executar l'ordre.
 Un cop intervé aquest mòdul Bibliobot ha acabat la seva tasca i espera a tornar a haver d'intervenir.
 
+
 A continuació es mostra una imatge amb els mòduls software i les dependències entre ells:
 
 <img src="src/modulos_software.jpg" width="300">
@@ -134,26 +135,11 @@ El programa principal (main) s'encarrega d'inicialitzar els pins i variables i c
 En aquest cas la crida a alguns mòduls retornarà l'entrada a uns altres (com la detecció d'obstacles i el moviment) i gestionarà a quina posició ha d'anar Bibliobot i quan ha arribat a la mateixa.
 El programa consta bàsicament d'un bucle continu en el qual el robot farà el següent:
 
-1.Moviment cap endavant.
+1. Prenem la direcció del robot amb la brúixola.
+2. Mirem si hi han obstacles i en que posició es troben.
+3. Esquivem els objectes segons on es trobin i la direcció del robot.
 
-2.Si no detecto objecte: 
-
-  2.1.continuo
-  
-3.Si detecto objecte:
-
-  3.1.canvi direcció
-  
-  3.2.reubico direcció principal
-  
-4.Si arribo a destí:
-
-  4.1.comunico a través de la veu
-  
-5.Si no arribo:
-
-6.repeteixo procés (punt 1)
-
+Del punt 3 es passarà a l'1 si no arribem a destí. En cas d'arribar el robot manarà a callar a la persona objectiu.
 
 # 3D printing
 
