@@ -83,6 +83,9 @@ A continuació es pot observar una simulació del circuit necessàri realitzat a
 
 <img src="/hardware/circuit.JPG" height="300">
 
+Si voleu saber quins pins hem utilitzat específicament per realitzar la versió final del bibliobot els podeu consultar al següent enllaç:
+
+[Pinout Bibliobot](/pinout_bibliobot.txt)
 
 
 
