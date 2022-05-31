@@ -237,3 +237,8 @@ Facilitació dels components necessàris per la realització del projecte.
 14. http://dimcad3d.com/2016/04/27/fusion-360-tutoriales-en-espanol/
 15. https://descubrearduino.com/audio-bluetooth-raspberry-pi/
 16. https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
+17. https://forums.raspberrypi.com/viewtopic.php?t=184556
+18. https://electropeak.com/learn/interfacing-gy-271-hmc5883l-compass-magnetometr-with-arduino/
+19. https://arduinoque.com/robots/sensor-de-movimiento-raspberry-pi/
+20. https://forums.raspberrypi.com/viewtopic.php?t=166156
+21. 
