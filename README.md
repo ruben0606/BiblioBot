@@ -9,6 +9,7 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
    * [Hardware](#hardware)
      * [Components](#components)
      * [Circuit](#circuit)  
+     * [Resultat final](#resultat-final)
    * [Software](#software)
    * [3D printing](#3d-printing)
    * [How to use](#how-to-use)
@@ -16,7 +17,6 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
    * [Contribution](#contribution)
    * [Citing](#citing)
    * [Sponsors](#sponsors)
-
    * [Authors](#authors)
    * [Bibliography](#bibliography)
 
@@ -88,6 +88,22 @@ Si voleu saber quins pins hem utilitzat específicament per realitzar la versió
 [Pinout Bibliobot](/pinout_bibliobot.txt)
 
 
+## Resultat final
+
+A continuació mostrem una sèrie d'imatges de la versió final del robot.
+
+
+<img src="/img/foto_robot.jpeg" height="300">
+
+*Imatge de la versió final del Bibliobot*
+
+<img src="/img/frontal_robot.jpeg" height="300">
+
+*Vista frontal del Bibliobot*
+
+<img src="/img/aerea_robot.jpeg" height="300">
+
+*Vista aèrea del Bibliobot*
 
 # Software
 
