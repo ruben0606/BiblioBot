@@ -54,7 +54,7 @@ Un cop intervé aquest mòdul Bibliobot ha acabat la seva tasca i espera a torna
 
 A continuació es mostra una imatge amb els mòduls software i les dependències entre ells:
 
-<img src="src/modulos_software.jpg" height="300">
+<img src="src/modulos_software.jpg" width="300">
 
 
 
