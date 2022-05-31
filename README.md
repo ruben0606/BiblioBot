@@ -9,7 +9,6 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
    * [Hardware](#hardware)
    * [Software](#software)
    * [3D printing](#3d-printing)
-   * [Documentation](#documentation)
    * [How to use](#how-to-use)
    * [License](#license)
    * [Contribution](#contribution)
@@ -120,9 +119,6 @@ Per últim, com hem esmentat abans, s'han realitzat múltiples pestanyes per fix
 <img src="3d_pieces/img_3d/pestanyes.jpeg" height="300">
 
 *Exemple de pestanyes per fixar els components*
-
-# Documentation
-...
 
 # How to use
 1. Connectar-se el dispositiu raspberry pi zero w mitjançant ssh.
