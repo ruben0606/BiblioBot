@@ -1,0 +1,11 @@
+-Raspberry pi zero w
+-Sensors dl'ultrasò HC-SR04 (x3)
+-Protoboard
+-Drivers L298N
+-Altaveu bluetooth
+-Motor Micrometal LP
+-Batería Lipo
+-Rodes(x2)
+-Roda boja
+-Portapiles (6 piles)
+-Micròfons I2S SPH0645
