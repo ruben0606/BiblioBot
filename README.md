@@ -156,3 +156,17 @@ Agraïm que esteu interessats en aquest project, però no acceptem cap tipus don
 # Bibliography
 1. https://rlpengineeringschooluab2017.wordpress.com/2017/05/31/soundhound/
 2. https://rlpengineeringschooluab2017.wordpress.com/2017/05/30/the-follower/
+3. https://www.electronicshub.org/raspberry-pi-l298n-interface-tutorial-control-dc-motor-l298n-raspberry-pi/
+4. https://cdn.sparkfun.com/assets/learn_tutorials/6/7/6/PiZero_1.pdf
+5. https://blog.330ohms.com/2020/06/17/como-conectar-un-sensor-ultrasonico-a-raspberry-pi/
+6. https://github.com/ShrimpingIt/micropython-dfplayer
+7. https://www.reddit.com/r/raspberrypipico/comments/q19v0n/dfplayer_with_pico/
+8. https://www.electroallweb.com/index.php/2020/07/22/modulo-dfplayer-mini-reproductor-mp3-tutorial-completo/
+9. https://pimylifeup.com/raspberry-pi-omxplayer/
+10. https://www.hackster.io/miguel-a-lopez-monzon/triangulation-of-sound-87d3b8
+11. https://forums.raspberrypi.com/viewtopic.php?t=165996
+12. https://forum.arduino.cc/t/sound-triangulation-with-3-microphones/122940
+13. https://www.youtube.com/watch?v=3LBiyBTnt7g&ab_channel=Maker%27sDigest
+14. http://dimcad3d.com/2016/04/27/fusion-360-tutoriales-en-espanol/
+15. https://descubrearduino.com/audio-bluetooth-raspberry-pi/
+16. https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
