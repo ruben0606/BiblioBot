@@ -35,6 +35,9 @@ Per executar el codi d'aquest project:
 - [Python 3.10.x](https://www.python.org/)
 - [playsound](https://pypi.org/project/playsound/)
 - [smbus](https://pypi.org/project/smbus-cffi/)
+- [pygame](https://pypi.org/project/pygame/)
+- [math](https://docs.python.org/es/3/library/math.html)
+- [time](https://pypi.org/project/python-time/)
 
 # Hardware
 
