@@ -7,6 +7,8 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
    * [Hardware](#hardware)
+     * [Components](#components)
+     * [Circuit](#circuit)  
    * [Software](#software)
    * [3D printing](#3d-printing)
    * [How to use](#how-to-use)
@@ -36,7 +38,45 @@ Per executar el codi d'aquest project:
 
 # Hardware
 
-## Componentes
+## Components
+
+Per realitzar el Bibliobot s'han utilitzat una sèrie de components que podeu trobar en la seva totatilat fent click al següent enllaç:
+
+[Enllaç components](https://github.com/ruben0606/BiblioBot/blob/main/components/components.txt)
+
+A continucació mostrem els principals components acompanyats d'una petita explicació del seu ús en el nostre projecte.
+
+<img src="components/bateria.jpg" height="300">
+
+*Batería que alimentarà els motors*
+
+<img src="components/driver.jpg" height="300">
+
+*Driver L298N que serviràn per manipulars els motors desde la Raspberry*
+
+<img src="components/motors.jpg" height="300">
+
+*S'encarregaràn de transmetre moviment a les rodes*
+
+<img src="components/raspberry.jpg" height="300">
+
+*Raspberry Pi Zero W, s'encarrega de controlar la resta de components*
+
+<img src="components/ultraso.jpg" height="300">
+
+*Sensors d'ultrasò HC-SR04 detecta obstacles a una certa distància del robot*
+
+
+
+
+
+
+
+
+
+## Circuit
+
+
 
 # Software
 
