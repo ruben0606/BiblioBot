@@ -1,0 +1,4 @@
+Mòdul que s'encarrega de que el robot es mogui en les 3 direccions possibles que li han sigut assignades, esquerra, dreta, endavant.
+Es pot controlar les velocitats per tal de que el robot avanci més de pressa o més lentament i es poden ajustar les velocitats dels motors independentment.
+
+

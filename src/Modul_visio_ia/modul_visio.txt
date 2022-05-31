@@ -1,0 +1,1 @@
+Per fer ús del mòdul de visió cal accedir al github que deixem a l'altre fitxer d'aquest directori i desde allà es podrà tenir accés al codi públic de detecció de persones que vem utilitzar.

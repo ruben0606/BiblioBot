@@ -1,0 +1,2 @@
+Mòdul que s'encarrega de triangular el soen el pla respecte del robot per saber a quina direcció s'haurà de dirigir.
+Ho fa a través dels 3 micròfons SPH0645 colocats a banda i banda del robot i a la part darrera del mateix per abarcar la major part del so.

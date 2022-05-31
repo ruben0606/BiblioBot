@@ -1,0 +1,2 @@
+Mòdul que s'encarrega de detectar si Bibliobot està a punt de xocar amb un obstacle
+Ho fa a través dels 3 sensors d'ultrasò HC-SR04 que té posicionats a 15 graus entre ells per no col·lisionar entre els 3.

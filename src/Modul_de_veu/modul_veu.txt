@@ -1,0 +1,2 @@
+Mòdul que s'encarrega de que el robot parli.
+Per parlar el Bibliobot es connecta amb bluetooth a un altaveu i reprodueix les pistes guardades.
