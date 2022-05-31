@@ -257,4 +257,4 @@ Facilitació dels components necessàris per la realització del projecte.
 18. https://electropeak.com/learn/interfacing-gy-271-hmc5883l-compass-magnetometr-with-arduino/
 19. https://arduinoque.com/robots/sensor-de-movimiento-raspberry-pi/
 20. https://forums.raspberrypi.com/viewtopic.php?t=166156
-21. 
+21. https://components101.com/modules/l293n-motor-driver-module
