@@ -1,0 +1,25 @@
+BOARD PINS
+
+HC-RS04
+----------
+TRIGL = 40
+TRIGC = 38
+TRIGR = 36
+
+ECHOL = 37
+ECHOC = 35
+ECHOR = 33
+
+GY-271
+----------
+SCL = 3
+SDA = 5
+
+L298N
+----------
+IN1 = 16
+IN2 = 18
+IN3 = 19
+IN4 = 15
+ENA = 22
+ENB = 23
