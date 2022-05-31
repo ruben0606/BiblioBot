@@ -46,35 +46,38 @@ Per realitzar el Bibliobot s'han utilitzat una sèrie de components que podeu tr
 
 A continucació mostrem els principals components acompanyats d'una petita explicació del seu ús en el nostre projecte.
 
-<img src="components/bateria.jpg" height="300">
+<img src="hardware/components/bateria.jpg" height="300">
 
 *Batería que alimentarà els motors*
 
-<img src="components/driver.jpg" height="300">
+<img src="hardware/components/driver.jpg" height="300">
 
 *Driver L298N que serviràn per manipulars els motors desde la Raspberry*
 
-<img src="components/motors.jpg" height="300">
+<img src="hardware/components/motors.jpg" height="300">
 
 *Motors s'encarregaràn de transmetre moviment a les rodes*
 
-<img src="components/raspberry.jpg" height="300">
+<img src="hardware/components/raspberry.jpg" height="300">
 
 *Raspberry Pi Zero W, s'encarrega de controlar la resta de components*
 
-<img src="components/ultraso.jpg" height="300">
+<img src="hardware/components/ultraso.jpg" height="300">
 
 *Sensors d'ultrasò HC-SR04 detecta obstacles a una certa distància del robot*
 
 
 
 
-
-
-
-
-
 ## Circuit
+
+A continuació es pot observar una simulació del circuit necessàri realitzat amb Fritzering. Per obtenir tots els components s'haurà de descarregar una sèrie de llibreries que deixem a l'enllaç de continuació:
+
+[Llibreries fritzering](https://github.com/adafruit/Fritzing-Library)
+
+
+<img src="/hardware/circuit.JPG" height="300">
+
 
 
 
