@@ -37,6 +37,27 @@ Per executar el codi d'aquest project:
 
 # Software
 
+A nivell de software el projecte conté tres grans mòduls:
+
+-Mòdul de Moviment:
+S'encarrega del moviment del robot, que es podrà moure en les quatre direccions, cap endavant, endarrera, esquerra i dreta.
+Simplement conté la programació perquè el robot pugui avançar cap a la direcció que se l'indiqui en tot moment segons la situació actual que tingui.
+Aquesta situació actual dependrà de si el mòdul de detecció d'obstacles li informa que hem topat amb un obstacle.
+
+-Mòdul de detecció d'obstacles:
+S'encarrega de detectar els obstacles que el Bibliobot va trobant al llarg del seu recorregut. Aquest mòdul informarà al mòdul de moviment quan detecti un obstacle i li dirà per quina direcció l'ha detectat. Això ho sabrà segons quin sensor d'ultrasò HC-sr04 hagi detectat l'obstacle i li passarà a l'altre mòdul una senyal perquè pugui actuar.
+Els sensors estàn separats amb una angle de 15 graus entre si per poder localitzar correctament si un objecte es troba davant, a l'esquerra o a la dreta i que no pugui haver confusió.
+
+-Mòdul de reproducció de so:
+S'encarrega de reproduïr una frase a través d'un altaveu un cop hagi arribat al destí per fer saber a la persona indicada que ha de baixar el to de veu. Depèn del mòdul de moviment per saber quan arribem al destí, que serà quan ha d'executar l'ordre.
+Un cop intervé aquest mòdul Bibliobot ha acabat la seva tasca i espera a tornar a haver d'intervenir.
+
+A continuació es mostra una imatge amb els mòduls software i les dependències entre ells:
+
+<img src="src/modulos_software.jpg" height="300">
+
+
+
 # 3D printing
 
 Per a la realització del Bibliobot s'han hagut d'imprimir diverses peces 3d. Aquestes peces 3d s'han imprès a l'Open Lab de la Universitat Autònoma de Barcelona (UAB).
