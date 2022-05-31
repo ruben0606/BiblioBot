@@ -39,16 +39,16 @@ Per executar el codi d'aquest project:
 
 A nivell de software el projecte conté tres grans mòduls:
 
--Mòdul de Moviment:
+-**Mòdul de Moviment:**
 S'encarrega del moviment del robot, que es podrà moure en les quatre direccions, cap endavant, endarrera, esquerra i dreta.
 Simplement conté la programació perquè el robot pugui avançar cap a la direcció que se l'indiqui en tot moment segons la situació actual que tingui.
 Aquesta situació actual dependrà de si el mòdul de detecció d'obstacles li informa que hem topat amb un obstacle.
 
--Mòdul de detecció d'obstacles:
+-**Mòdul de detecció d'obstacles:**
 S'encarrega de detectar els obstacles que el Bibliobot va trobant al llarg del seu recorregut. Aquest mòdul informarà al mòdul de moviment quan detecti un obstacle i li dirà per quina direcció l'ha detectat. Això ho sabrà segons quin sensor d'ultrasò HC-sr04 hagi detectat l'obstacle i li passarà a l'altre mòdul una senyal perquè pugui actuar.
 Els sensors estàn separats amb una angle de 15 graus entre si per poder localitzar correctament si un objecte es troba davant, a l'esquerra o a la dreta i que no pugui haver confusió.
 
--Mòdul de reproducció de so:
+-**Mòdul de reproducció de so:**
 S'encarrega de reproduïr una frase a través d'un altaveu un cop hagi arribat al destí per fer saber a la persona indicada que ha de baixar el to de veu. Depèn del mòdul de moviment per saber quan arribem al destí, que serà quan ha d'executar l'ordre.
 Un cop intervé aquest mòdul Bibliobot ha acabat la seva tasca i espera a tornar a haver d'intervenir.
 
@@ -56,6 +56,20 @@ A continuació es mostra una imatge amb els mòduls software i les dependències
 
 <img src="src/modulos_software.jpg" width="300">
 
+**PROGRAMA PRINCIPAL**
+El programa principal (main) s'encarrega d'inicialitzar els pins i variables i cridar a les funcions corresponents als mòduls de software per obtenir la solució. 
+En aquest cas la crida a alguns mòduls retornarà l'entrada a uns altres (com la detecció d'obstacles i el moviment) i gestionarà a quina posició ha d'anar Bibliobot i quan ha arribat a la mateixa.
+El programa consta bàsicament d'un bucle continu en el qual el robot farà el següent:
+-Moviment cap endavant.
+-Si no detecto objecte: 
+  -continuo
+-Si detecto objete:
+  -canvi direcció
+  -reubico direcció principal
+-Si arribo a destí:
+  -comunico a través de la veu
+-Si no arribo:
+  -repeteixo procés
 
 
 # 3D printing
