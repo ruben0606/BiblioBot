@@ -60,16 +60,26 @@ A continuació es mostra una imatge amb els mòduls software i les dependències
 El programa principal (main) s'encarrega d'inicialitzar els pins i variables i cridar a les funcions corresponents als mòduls de software per obtenir la solució. 
 En aquest cas la crida a alguns mòduls retornarà l'entrada a uns altres (com la detecció d'obstacles i el moviment) i gestionarà a quina posició ha d'anar Bibliobot i quan ha arribat a la mateixa.
 El programa consta bàsicament d'un bucle continu en el qual el robot farà el següent:
+
 1.Moviment cap endavant.
+
 2.Si no detecto objecte: 
+
   2.1.continuo
-3.Si detecto objete:
+  
+3.Si detecto objecte:
+
   3.1.canvi direcció
+  
   3.2.reubico direcció principal
+  
 4.Si arribo a destí:
-  4.1comunico a través de la veu
+
+  4.1.comunico a través de la veu
+  
 5.Si no arribo:
-  6.repeteixo procés (punt 1)
+
+6.repeteixo procés (punt 1)
 
 
 # 3D printing
