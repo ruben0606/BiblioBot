@@ -4,7 +4,24 @@ Created on Tue May 31 23:51:41 2022
 
 @author: rubeg
 """
+def MagnetometerInit():
+    # configurar registro A
+    bus.write_byte_data(deviceAdress, Registro_A, 0x01)
+    # configurar registro B
+    bus.write_byte_data(deviceAdress, Registro_B, 0x1D)
+    # configurar registro para seleccionar el modo
+    # bus.write_byte_data(deviceAdress, ModoRegistro, 0)
 
+def read_raw_data(addr):
+    # leer doble byte (16 bits)
+    low = bus.read_byte_data(deviceAdress, addr)
+    high = bus.read_byte_data(deviceAdress, addr + 1)
+    # concatenar los bytes
+    valor = ((high << 8) | low)
+    # obtener el signo
+    if (valor > 32768):
+        valor = valor - 65536
+    return valor
 def bruixola():
     print('leyendo magnetometro...')
     #while True:
