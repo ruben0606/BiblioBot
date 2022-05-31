@@ -13,6 +13,8 @@ Project de l'assignatura Robòtica, llenguatge i planificació.
    * [License](#license)
    * [Contribution](#contribution)
    * [Citing](#citing)
+   * [Sponsors](#sponsors)
+
    * [Authors](#authors)
    * [Bibliography](#bibliography)
 
@@ -149,6 +151,18 @@ Si utilitzeu el codi d'aquest projecte per al vostre propi projecte, us animem a
 
 # Supporting this project
 Agraïm que esteu interessats en aquest project, però no acceptem cap tipus donació.
+
+# Sponsors
+
+### [Open Labs UAB](https://www.uab.cat/open-labs/)
+
+Impressió de peces 3D amb ells de forma gratuïta per projecte de la UAB.
+
+### [Universitat Atònomma de Barcelona (UAB)](https://www.uab.cat/)
+
+Facilitació dels components necessàris per la realització del projecte.
+
+
 
 # Authors
 - [Col·laboradors d'aquest project](https://github.com/ruben0606/BiblioBot/graphs/contributors)
